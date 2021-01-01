@@ -3,9 +3,9 @@
 Renewit user reward mechanism is at the core of Renew Apps. This apps allows users ti be rewarded in REN token for their completed specific daily task achievements.
 These tokens can be used to purchase any kind of stuff in merchant apps or this token kan pay electricity convert into solar panel voltage.
 
-<> A reward for achieving token that is collecting and submiting different plastic bottle in our designable garbage bin
-<> The courier or driver has a role to collecting & pick up the trash from our designable garbage bin to SME's (small medium enterprises) or to industries
-<> In order to encourage users to more awarness with environment, the developer will give specific goals/daily task for the end user to achieve
+1.  A reward for achieving token that is collecting and submiting different plastic bottle in our designable garbage bin
+2. The courier or driver has a role to collecting & pick up the trash from our designable garbage bin to SME's (small medium enterprises) or to industries
+3. In order to encourage users to more awarness with environment, the developer will give specific goals/daily task for the end user to achieve
 
 The components of such contract are the following:
 
